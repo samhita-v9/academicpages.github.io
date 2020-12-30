@@ -4,7 +4,7 @@ collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/INFORMS2
 venue: "Annual INFORMS CONFERENCE 2020"
-date: 2020-11
+date: 2020-11-11
 location: "Online (due to Covid)"
 ---
 
