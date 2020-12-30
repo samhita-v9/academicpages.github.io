@@ -35,14 +35,14 @@ As a part of some of my courses at UIUC, I have pursued the following projects.
 
 1. Show and Tell
 -----
-2. Visual Question Answering
------
-3. Understanding the instabilities of deep learning networks to adversial attacks in medical image reconstruction. 
------
+I worked on building a generative model with a deep recurrent architecture to automatically generate captions for an image using Pytorch. Trained a CNN (ResNet152) as image encoder with LSTM as decoder network and generated captions using beam search with beam size 2. Evaluated the captions using BLEU score, achieving a score of 16.31 as against 27.7 by the paper authors
 
 Background
 =====
+I graduated with my M.Sc (Honors) in Mathematics and B.E (Honors) in Computer Science (dual degree) from BITS Pilani, Hyderabad Campus in 2017. I pursued my Masters' thesis externally at IIT Bombay in the Fall Semester of 2016. 
+
 
 Contact
 =====
+email: samhita3atillinoisdotedu
 
