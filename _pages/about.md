@@ -15,15 +15,17 @@ Research Interests
 My Research is focused on Optimization and Operations Research. I am currently focused on optimization in neural networks. I have worked on formulating real life applications into mixed integer programming problems and then involved in the design and development of accelerated algorithms for these problems. 
 
 1.Multi Target Tracking
-======
+-----
 
 Multi-Target Tracking (MTT) is a prominent computer vision problem that can be formulated as a Multi-dimensional Assignment Problem, that is NP-Hard. This project is a combination of both theory and computation. I have designed a dual-ascent based algorithm and then developed a GPU-accelerated code, that is enabled to handle about 25 billion variables. A provable optimal solution is found is found for most of the test cases.
+
+
 2.Entity Resolution and Coreference.
-======
+-----
 NLP applications like "Entity Coreference" and "Entity Resolution" are formulated as integer programming problems and accelerated algrotihms are developed. A better accuracy is guranteed. 
 
 3.Traveling Salesman Problem
-======
+----
 
 Accelerated algorithms are produced for TSP that provide good approximate solutions for large sized problems. 
 
