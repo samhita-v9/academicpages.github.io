@@ -1,10 +1,10 @@
 ---
-title: "Talk 2 on Relevant Topic in Your Field"
+title: "INFORMATION FUSION 2020"
 collection: talks
 type: "Talk"
 permalink: /talks/Fusion1
 venue: "Online (Due to Covid)"
-date: 2020-07- 08
+date: 2020-07-08
 
 
 
