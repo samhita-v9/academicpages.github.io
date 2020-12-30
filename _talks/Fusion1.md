@@ -3,8 +3,10 @@ title: "INFORMATION FUSION 2020"
 collection: talks
 type: "Talk"
 permalink: /talks/Fusion1
-venue: "Online (Due to Covid)"
+venue: "INFORMATION FUSION CONFERENCE 2020"
 date: 2020-07-08
+location: "Online (due to Covid19)"
+---
 
 
 
