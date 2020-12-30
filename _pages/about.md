@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![Profile](/images/profile-samv.png)
+
 I am a PhD candidate at University of Illinois, Urbana Champaign. Prior to this, I pursued my Dual degree: Masters in Mathematics and Bachelors in Computer Science, from BITS, Pilani, Hyderabad Campus. I am advised by Prof Rakesh Nagi and am a prt of the C3SR team, a collaboration with IBM. 
 
 Research Interests
@@ -19,7 +19,7 @@ My Research is focused on Optimization and Operations Research. I am currently f
 
 Multi-Target Tracking (MTT) is a prominent computer vision problem that can be formulated as a Multi-dimensional Assignment Problem, that is NP-Hard. This project is a combination of both theory and computation. I have designed a dual-ascent based algorithm and then developed a GPU-accelerated code, that is enabled to handle about 25 billion variables. A provable optimal solution is found is found for most of the test cases.
 
-
+ 
 2.Entity Resolution and Coreference.
 -----
 NLP applications like "Entity Coreference" and "Entity Resolution" are formulated as integer programming problems and accelerated algrotihms are developed. A better accuracy is guranteed. 
