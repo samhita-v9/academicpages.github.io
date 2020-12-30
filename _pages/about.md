@@ -14,15 +14,26 @@ Research Interests
 ======
 My Research is focused on Optimization and Operations Research. I am currently focused on optimization in neural networks. I have worked on formulating real life applications into mixed integer programming problems and then involved in the design and development of accelerated algorithms for these problems. 
 
-1. Multi-Target Tracking Problems: 
+1.Multi Target Tracking
+======
+
 Multi-Target Tracking (MTT) is a prominent computer vision problem that can be formulated as a Multi-dimensional Assignment Problem, that is NP-Hard. This project is a combination of both theory and computation. I have designed a dual-ascent based algorithm and then developed a GPU-accelerated code, that is enabled to handle about 25 billion variables. A provable optimal solution is found is found for most of the test cases.
-2. Entity Coreference and Resolution:
+2.Entity Resolution and Coreference.
+======
 NLP applications like "Entity Coreference" and "Entity Resolution" are formulated as integer programming problems and accelerated algrotihms are developed. A better accuracy is guranteed. 
-3. Traveling Salesman Problem:
-Accelerated algorithms are produced for TSP that provide good approximate solutions. 
 
+3.Traveling Salesman Problem
+======
 
-#the[GitHub # pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Accelerated algorithms are produced for TSP that provide good approximate solutions for large sized problems. 
+
+Academic Projects
+======
+As a part of some of my courses at UIUC, I have pursued the following projects. 
+
+1. Show and Tell
+======
+
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
