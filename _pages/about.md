@@ -17,6 +17,9 @@ My Research is focused on Optimization and Operations Research. I am currently f
 1. Multi-Target Tracking Problems: 
 Multi-Target Tracking (MTT) is a prominent computer vision problem that can be formulated as a Multi-dimensional Assignment Problem, that is NP-Hard. This project is a combination of both theory and computation. I have designed a dual-ascent based algorithm and then developed a GPU-accelerated code, that is enabled to handle about 25 billion variables. A provable optimal solution is found is found for most of the test cases.
 2. Entity Coreference and Resolution:
+NLP applications like "Entity Coreference" and "Entity Resolution" are formulated as integer programming problems and accelerated algrotihms are developed. A better accuracy is guranteed. 
+3. Traveling Salesman Problem:
+Accelerated algorithms are produced for TSP that provide good approximate solutions. 
 
 
 #the[GitHub # pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
