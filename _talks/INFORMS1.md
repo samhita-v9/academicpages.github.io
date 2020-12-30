@@ -1,10 +1,10 @@
 ---
-title: "Talk 1 on Relevant Topic in Your Field"
+title: "ANNUAL INFORMS CONFERENCE 2019"
 collection: talks
 type: "Talk"
 permalink: /talks/INFORMS1
 venue: "ANNUAL INFORMS CONFERENCE"
-date: 2019-10
+date: 2019-10-24
 location: "Seattle, Washington"
 ---
 
