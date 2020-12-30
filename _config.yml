@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Samhita Vadrevu Home Page"
+title                    : "Home Page"
 title_separator          : "-"
 name                     : &name "SAMHITA VADREVU"
 description              : &description "personal description"
