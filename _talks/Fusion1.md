@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/Fusion1
 venue: "Online (Due to Covid)"
-date: 2020-07
+date: 2020-07- 08
 
 
 
