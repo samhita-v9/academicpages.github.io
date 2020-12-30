@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at University of Illinois, Urbana Champaign. Prior to this, I pursued my Dual degree: Masters in Mathematics and Bachelors in Computer Science, from BITS, Pilani, Hyderabad Campus. I am advised by Prof Rakesh Nagi and am a prt of the C3SR team, a collaboration with IBM. 
+I am a PhD candidate at University of Illinois, Urbana Champaign. Prior to this, I pursued my Dual degree: Masters in Mathematics and Bachelors in Computer Science, from BITS, Pilani, Hyderabad Campus. I am advised by Prof Rakesh Nagi and am a part of the C3SR team, a collaboration with IBM. 
 
 Research Interests
 ======
