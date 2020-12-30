@@ -1,5 +1,5 @@
 ---
-title: "Conference Proceeding talk 3 on Relevant Topic in Your Field"
+title: "Annual INFORMS Conference 2020"
 collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/INFORMS2
