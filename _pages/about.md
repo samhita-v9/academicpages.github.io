@@ -37,12 +37,14 @@ As a part of some of my courses at UIUC, I have pursued the following projects.
 
 1. A survey on Visual Question Answering on Medical Datasets
 -----
+
 Course: Natural Language Processing Course Project, CS 447, UIUC
 
 As a part of this project, I performed an extensive literature review on Visual Question Answering with a focus on medical data and identified challenges when dealing with medical data. Visual Question Answering (VQA) in medical data is more complex than general data because the questions are very specific and the answers are highly detailed. I was interested in understanding different kinds of deep learning models that could be used to tackle such issues. I am currently exploring the idea of using Dynamic Neural Modules (DNM) for VQA on medical datasets. 
 
 
 2. Analysis of the instabilities in neural networks in medical image reconstruction      
+-----
 
 Course: Machine Learning in Signal Processing Course Project, CS 598 PS, UIUC
 
@@ -58,7 +60,7 @@ As a part of this project, I analyzed performance of four prominent neural netwo
 
 Course: Deep learning IE 598, UIUC
 
-I worked on building a generative model with a deep recurrent architecture to automatically generate captions for an image using Pytorch. Trained a CNN (ResNet152) as image encoder with LSTM as decoder network and generated captions using beam search with beam size 2. Evaluated the captions using BLEU score, achieving a score of 16.31 as against 27.7 by the paper authors
+I worked on building a generative model with a deep recurrent architecture to automatically generate captions for an image using Pytorch. Trained a CNN (ResNet152) as image encoder with LSTM as decoder network and generated captions using beam search with beam size 2. Evaluated the captions using BLEU score, achieving a score of 16.31 as against 27.7 by the paper authors.
 
 Background
 =====
