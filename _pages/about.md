@@ -17,17 +17,17 @@ My Research is focused on Optimization and Operations Research. I am currently f
 1.Multi Target Tracking
 -----
 
-Multi-Target Tracking (MTT) is a prominent computer vision problem that can be formulated as a Multi-dimensional Assignment Problem, that is NP-Hard. This project is a combination of both theory and computation. I have designed a dual-ascent based algorithm and then developed a GPU-accelerated code, that is enabled to handle about 25 billion variables. A provable optimal solution is found is found for most of the test cases.
+Multi-Target Tracking (MTT) is a prominent computer vision/ aerospace/ optimization problem that can be formulated as a Multi-dimensional Assignment Problem (MAP). MAP is a generalization of a Linear Assignment Problem with a k-partite graph as imput. This problem is NP-Hard for k greater than 2. This project is a combination of both theory and computation. I have designed a dual-ascent based algorithm and then developed a GPU-accelerated code, that is enabled to handle about 25 billion variables. A provable optimal solution is found is found for most of the test cases. The code was executed in C++ and CUDA. 
 
  
 2.Entity Resolution and Coreference.
 -----
-NLP applications like "Entity Coreference" and "Entity Resolution" are formulated as integer programming problems and accelerated algrotihms are developed. A better accuracy is guranteed. 
+Entity Resolution is an umbrella to many NLP problems such as Entity linking and Coreference resolution. The goal of the problem is to resolve multiple references of the same real world entity. This problem is also used as a precursor for other NLP problems such as Question Answering, Document summarization etc. As a solution approach, I have formulated this problem as an integer programming problems and developing an accelerated algorithm to deak with large scale data. This approach is aimed at overcoming the challenges faced by deep learning techniques. One such major challenge is the violation of "common sense constraints", which because of an optimal solution to a mathematical formulation, will be overcome through this approach. 
 
-3.Traveling Salesman Problem
+3.Generalized Set Packing Problem 
 ----
 
-Accelerated algorithms are produced for TSP that provide good approximate solutions for large sized problems. 
+The original set packing formulation is cumbersome because of the design of the formulation and the input requirements. I have develped a new formulation that overcomes these issues and reduces the input size for the same problem by an exponential factor. I am currently working on developing a scalable solution that is GPU accelerated and enabled to handle large graphs.  
 
 Academic Projects
 ======
@@ -49,10 +49,6 @@ As a part of this project, I performed an extensive literature review on Visual 
 Course: Machine Learning in Signal Processing Course Project, CS 598 PS, UIUC
 
 As a part of this project, I analyzed performance of four prominent neural network architectures in presence of adversarial attacks and instabilities. Medical image reconstruction is an inverse problem and lately deep learning models are rising up to show better performance than the traditional models such as compressed sensing, parallel image sensing. However, these models are susceptible to instabilities when faced with adverserial attacks. This project was focused on identifying the instabilities that could be caused and the reaction of four prominent deep learning networks to such instabilities. I am currently exploring tways to make these models robust.  
-
-
-
-
 
 
 3. Show and Tell
