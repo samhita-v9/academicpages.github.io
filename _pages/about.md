@@ -40,7 +40,7 @@ As a part of some of my courses at UIUC, I have pursued the following projects.
 
 Course: Natural Language Processing Course Project, CS 447, UIUC
 
-As a part of this project, I performed an extensive literature review on Visual Question Answering with a focus on medical data and identified challenges when dealing with medical data. Visual Question Answering (VQA) in medical data is more complex than general data because the questions are very specific and the answers are highly detailed. I was interested in understanding different kinds of deep learning models that could be used to tackle such issues. I am currently exploring the idea of using Dynamic Neural Modules (DNM) for VQA on medical datasets. 
+As a part of this project, I performed an extensive literature review on Visual Question Answering with a focus on medical data and identified challenges when dealing with medical data. Visual Question Answering is a NLP task that takes images and a question related to that image and outputs an answer to that question.  Visual Question Answering (VQA) in medical data is more complex than general data because the questions are very specific and the answers are highly detailed. I was interested in understanding different kinds of deep learning models that could be used to tackle such issues. I am currently exploring the idea of using Dynamic Neural Modules (DNM) for VQA on medical datasets. 
 
 
 2. Analysis of the instabilities in neural networks in medical image reconstruction      
