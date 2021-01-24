@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 2"
-collection: teaching
-type: "Workshop"
+title: "Teaching Assistant: Spring 2018"
+collection: IE 300- Analysis of Data 
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Industrial and Systems Engineering, UIUC"
+location: "Champaign, Illinois"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I was responsible for holding discussion sessions on topics in Probability and Data analysis and helped students implement these concepts in python 
+I also handled grading and holding office hours. 
 
-Heading 1
-======
 
-Heading 2
-======
 
-Heading 3
-======
