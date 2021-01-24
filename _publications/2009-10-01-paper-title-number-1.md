@@ -2,7 +2,6 @@
 title: "A Dual-Ascent Algorithm for the Multi-dimensional Assignment Problem: Application to Multi-Target Tracking"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-date: 2009-10-01
 venue: 'Journal 1'
 paperurl: 'http://samhita-v9.github.io/files/A Dual-Ascent Algorithm for the Multi-dimensional Assignment Problem: Application to Multi-Target Tracking.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
